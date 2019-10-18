@@ -12,6 +12,7 @@ namespace testando_git
         {
             Console.WriteLine("Olá Mundo");
             Console.WriteLine("Olá Mundo");
+            Console.WriteLine("Tenha Um Bom dia! ");
 
             Console.ReadKey();
         }
